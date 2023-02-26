@@ -2,7 +2,7 @@
 
 preview
 <h1 align="center">Hi 👋, I'm HarshitCod</h1>
-<h3 align="center">A passionate frontend developer,LeetCode Ruunner Up Programmer With 3 Years Of Experience.</h3>
+<h3 align="center">A passionate frontend developer,LeetCode Runner Up Programmer With 3 Years Of Experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitcod&label=Profile%20views&color=0e75b6&style=flat" alt="harshitcod" /> </p>
 
